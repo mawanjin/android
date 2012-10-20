@@ -5,6 +5,5 @@ public class TMain {
 		System.out.println("ss");
 		System.out.println("good");
 		System.out.println("haha");
-		System.out.println("1234");
 	}
 }
