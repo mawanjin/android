@@ -6,5 +6,6 @@ public class TMain {
 		System.out.println("good");
 		System.out.println("haha1");
 		System.out.println("haha1");
+		System.out.println("haha1");
 	}
 }
